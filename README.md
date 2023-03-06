@@ -1,5 +1,5 @@
-# Low-Budget-Paint-Application
-A very small C# project, developed in Visual .Net, that I worked on while pulling a few all-nighters back in high school and that shares some of the features found on the Paint software on Windows.
+# Paint-Desktop-Application
+A small C# project, developed in Visual .Net, that I worked on while pulling a few all-nighters back in high school and that shares some of the features found on the Paint software found on Windows.
 
 The features available in this knock-off version of Paint:
 * a color picker is provided so that the user can choose the desired color for their brush
